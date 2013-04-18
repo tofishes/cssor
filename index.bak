@@ -1,0 +1,302 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="zh-CN">
+
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title> ToFishes~</title>
+<link rel="alternate" type="application/rss+xml" title="ToFishes~ RSS Feed" href="http://www.cssor.com/feed" />
+<link rel="pingback" href="http://www.cssor.com/xmlrpc.php" />
+
+<link rel="stylesheet" href="http://www.cssor.com/wp-content/themes/motion/style.css" type="text/css" media="screen" />
+<!--[if lt IE 7]>
+<link href="http://www.cssor.com/wp-content/themes/motion/ie6.css" rel="stylesheet" type="text/css" media="screen" />
+<script type="text/javascript">var clear="http://www.cssor.com/wp-content/themes/motion/images/clear.gif"; //path to clear.gif</script>
+<script type="text/javascript" src="http://www.cssor.com/wp-content/themes/motion/js/unitpngfix.js"></script>
+<![endif]-->
+
+<script type='text/javascript' src='http://www.cssor.com/wp-content/themes/motion/js/sfhover.js?ver=2.9.2'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.cssor.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.cssor.com/wp-includes/wlwmanifest.xml" /> 
+<link rel='index' title='ToFishes~' href='http://www.cssor.com' />
+<meta name="generator" content="WordPress 2.9.2" />
+</head>
+
+<body class="home blog">
+<div id="wrapper">
+
+<div id="top">
+	<div id="topmenu">
+		<ul>
+			<li class="page_item current_page_item"><a href="http://www.cssor.com/">Home</a></li>			<li class="page_item page-item-2"><a href="http://www.cssor.com/关于" title="关于">关于</a></li>
+			<li><a class="rss" href="http://www.cssor.com/feed">RSS</a></li>
+		</ul>
+	</div>
+
+	<div id="search">
+		<form method="get" id="searchform" action="http://www.cssor.com/">
+			<p>
+				<input type="text" value="Search this site..." onfocus="if (this.value == 'Search this site...' ) { this.value = ''; }" onblur="if (this.value == '' ) { this.value = 'Search this site...'; }" name="s" id="searchbox" />
+				<input type="submit" class="submitbutton" value="GO" />
+			</p>
+		</form>
+	</div>
+</div><!-- /top -->
+
+<div id="header">
+	<div id="logo">
+		<a href="http://www.cssor.com"><img src="http://www.cssor.com/wp-content/themes/motion/images/genericlogo.png" alt="ToFishes~" /></a>
+		<h1><a href="http://www.cssor.com">ToFishes~</a></h1>
+		<div id="desc">相濡以沫不若相忘于江湖</div>
+	</div><!-- /logo -->
+
+		<div id="headerbanner">
+		<p>Hey there! Thanks for dropping by ToFishes~! Take a look around and grab the <a href="http://www.cssor.com/feed">RSS feed</a> to stay updated. See you around!</p>
+	</div>
+	</div><!-- /header -->
+
+<div id="catnav">
+	<ul id="nav">
+			<li class="cat-item cat-item-3"><a href="http://www.cssor.com/category/jquery" title="查看 jQuery 下的所有文章">jQuery</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.cssor.com/category/freedom" title="查看 随意 下的所有文章">随意</a>
+</li>
+	</ul>
+</div><!-- /catnav -->
+
+<div id="main">
+
+	<div id="content">
+
+		<h2 id="contentdesc">Latest <span>Entries</span> &raquo;</h2>
+
+				
+				<div class="post-26 post hentry category-freedom" id="post-26">
+		
+			<div class="posttop">
+				<h2 class="posttitle"><a href="http://www.cssor.com/a-linker.html" rel="bookmark" title="Permanent Link to a linker">a linker</a></h2>
+				<div class="postmetatop">
+					<div class="categs">Filed Under: <a href="http://www.cssor.com/category/freedom" title="查看 随意 的全部文章" rel="category tag">随意</a> by tofishes &mdash; <a href="http://www.cssor.com/a-linker.html#respond" title="a linker 上的评论">留下评论</a></div>
+					<div class="date"><span>2010年08月7日</span></div>
+				</div>
+			</div>
+
+			<div class="postcontent">
+				<p>jgjh</p>
+			</div>
+
+			<div class="postmetabottom">
+				<div class="tags"></div>
+				<div class="readmore">
+					<span>
+													<a href="http://www.cssor.com/a-linker.html#comments" title="a linker 上的评论">评论 </a>
+											</span>
+				</div>			
+			</div>
+
+		</div><!-- /post -->
+
+		
+				<div class="post-23 post hentry category-jquery" id="post-23">
+		
+			<div class="posttop">
+				<h2 class="posttitle"><a href="http://www.cssor.com/jquery.html" rel="bookmark" title="Permanent Link to jquery">jquery</a></h2>
+				<div class="postmetatop">
+					<div class="categs">Filed Under: <a href="http://www.cssor.com/category/jquery" title="查看 jQuery 的全部文章" rel="category tag">jQuery</a> by tofishes &mdash; <a href="http://www.cssor.com/jquery.html#respond" title="jquery 上的评论">留下评论</a></div>
+					<div class="date"><span>2010年08月7日</span></div>
+				</div>
+			</div>
+
+			<div class="postcontent">
+				<p>aaa</p>
+			</div>
+
+			<div class="postmetabottom">
+				<div class="tags"></div>
+				<div class="readmore">
+					<span>
+													<a href="http://www.cssor.com/jquery.html#comments" title="jquery 上的评论">评论 </a>
+											</span>
+				</div>			
+			</div>
+
+		</div><!-- /post -->
+
+		
+				<div class="post-7 post hentry category-freedom" id="post-7">
+		
+			<div class="posttop">
+				<h2 class="posttitle"><a href="http://www.cssor.com/first-use-vps.html" rel="bookmark" title="Permanent Link to VPS折腾手记">VPS折腾手记</a></h2>
+				<div class="postmetatop">
+					<div class="categs">Filed Under: <a href="http://www.cssor.com/category/freedom" title="查看 随意 的全部文章" rel="category tag">随意</a> by tofishes &mdash; <a href="http://www.cssor.com/first-use-vps.html#respond" title="VPS折腾手记 上的评论">留下评论</a></div>
+					<div class="date"><span>2010年08月7日</span></div>
+				</div>
+			</div>
+
+			<div class="postcontent">
+				<p>从淘宝买了vps，昨日晚上账号到手，折腾到凌晨2点，之后今天又继续折腾到现在，总算服务器+blog+ftp折腾完毕。</p>
+<p>Apache2主要是设置虚拟主机，因为本服务承载了两个人的blog；blog则是权限问题（文件上传需要读写） ，ftp是完全安装配置。</p>
+<p>主机是Ubuntu10.04系统。默认安装有Apache2，Mysql，其他则无。使用Xshell登录SSH。</p>
+<p>配置Apache2的虚拟主机，修改/ect/apache2/httpd.conf (默认是空文件的)，直接添加</p>
+<p>NameVirtualHost ip<br />
+&lt;VirtualHost ip&gt;<br />
+ServerName www.cssor.com<br />
+DocumentRoot /docroot<br />
+&lt;Directory &#8220;/docroot&#8221;&gt;<br />
+Options FollowSymLinks<br />
+AllowOverride None<br />
+Order allow,deny<br />
+Allow from all<br />
+&lt;/Directory&gt;<br />
+&lt;/VirtualHost&gt;</p>
+<p>&lt;VirtualHost ip&gt;<br />
+ServerName 域名2<br />
+DocumentRoot /docroot2<br />
+&lt;Directory &#8220;/docroot2&#8243;&gt;<br />
+Options FollowSymLinks<br />
+AllowOverride None<br />
+Order allow,deny<br />
+Allow from all<br />
+&lt;/Directory&gt;<br />
+&lt;/VirtualHost&gt;</p>
+<p>这里也折腾了不少，开始是没配置directory标签，出了个警告，赶紧加上，接着是没配置 NameVirtualHost，又是警告，</p>
+<p>然后NameVirtualHost偶配置了多个，还是警告，才知道NameVirtualHost配置一个就够了，后面跟着ip就行了。这样两个域名都ok了。</p>
+<p>Apache2的管理命令：</p>
+<p>$root: /etc/init.d/apache2 restart  //重启</p>
+<p>$root: /etc/init.d/apache2 stop //停止，换成start是启动</p>
+<p>编辑配置文件是vi /etc/apache2/httpd.conf</p>
+<p>以上Apache是配置ok了。然后为了方便上传，安装了ftp服务器（如果是一个人，可以用Xftp以Sftp的方式管理），使用vsftpd。</p>
+<p>$root: apt-get install vsftpd</p>
+<p>一路安装下来，最后是配置：</p>
+<p>vi  /etc/vsftpd.conf</p>
+<p>去掉了一些原有语句的注释：</p>
+<p>#本地用户可用<br />
+local_enable=YES<br />
+#加点banner提示<br />
+ftpd_banner=Hello~~<br />
+#不让匿名访问<br />
+anonymous_enable=NO<br />
+#按推荐的来<br />
+local_umask=022<br />
+#启动chroot列表(Change root)<br />
+chroot_list_enable=YES<br />
+#锁定ftp根目录，不让向上访问<br />
+local_root=/home</p>
+<p>#使用用户列表文件<br />
+userlist_enable=YES<br />
+#用户列表没有定义的用户不能访问ftp<br />
+userlist_deny=NO<br />
+write_enable=YES #开启可写，这个配置 郁闷了，刚配置时没有加上，导致ftp可以访问了，但是愣是不能上传，又折腾一会儿，看到有资料提及此配置。</p>
+<p>上面开启了用户列表文件，那么就需要配置一下了：</p>
+<p>vi /etc/vsftpd.user_list</p>
+<p>加入几个用户名，比如</p>
+<p>user1<br />
+user2 #每行一个用户名</p>
+<p>:wq保存退出即可。然后在系统中添加用户: useradd user1 ; useradd user2； 分别设置密码： passwd user1; passwd user2；。</p>
+<p>接下来配置blog，上传wp程序到Apache配置的虚拟主机对应的目录去。然后访问域名，出现安装页面。这里忘了要说一下，VPS系统默认安装有Mysql数据库，用户名是root，默认密码空</p>
+<p>blog安装出现wp-config.php无法写入问题，及之后博客上传主题文件（忘了这里也是需要ftp的，wp为虾米这么弄，http上传下载也可以撒）等无法写入，连ftp也是无法写入的。</p>
+<p>于是权限的设置郁闷了一下。这里不得不说，有两个命令，有些相似，不常用就弄混了。</p>
+<p>文件所属命令 chown，和 权限设置命令 chmod ，（change owner, change mode）</p>
+<p>可以想象到了，偶把chomd用成了chown，结果发现依然存在权限问题。。。郁闷啊。新手，直接根目录统统的 777 权限。</p>
+<p>chown -R 777 /home/user1 #杯具的只是改了所属用户而已。777可以替换为用户名，比如 chown -R user1 /home/user1, -R会递归子文件</p>
+<p>chmod u+w+r+x /home/user1 # 这才真正的解决权限问题，u 与文件属主拥有一样的权限，刚刚chown了，那么u指所有用户（777）或user1, +赋予权限，-删除权限，w写，r读，x执行</p>
+<p>另外apt-get install phpmyadmin用于管理mysql 。</p>
+<p>简略手记完毕。</p>
+			</div>
+
+			<div class="postmetabottom">
+				<div class="tags"></div>
+				<div class="readmore">
+					<span>
+													<a href="http://www.cssor.com/first-use-vps.html#comments" title="VPS折腾手记 上的评论">评论 </a>
+											</span>
+				</div>			
+			</div>
+
+		</div><!-- /post -->
+
+		
+		
+		<div id="navigation">
+							<div class="alignleft"></div>
+				<div class="alignright"></div>
+					</div><!-- /navigation -->
+
+	</div><!-- /content -->
+
+	
+<div id="sidebar">
+	<ul>
+	
+		<li class="boxed">
+			<h3>Recent entries</h3>
+			<ul>
+					<li><a href='http://www.cssor.com/a-linker.html' title='a linker'>a linker</a></li>
+	<li><a href='http://www.cssor.com/jquery.html' title='jquery'>jquery</a></li>
+	<li><a href='http://www.cssor.com/first-use-vps.html' title='VPS折腾手记'>VPS折腾手记</a></li>
+			</ul>
+		</li>
+
+		<li class="boxed" id="tagbox">
+			<h3>Browse popular tags</h3>
+					</li>
+
+		<li class="boxed">
+			<h3>Meta</h3>
+			<ul>
+								<li><a href="http://www.cssor.com/wp-login.php">登录</a></li>
+				<li><a href="http://www.cssor.com/feed">Entries RSS</a></li>
+				<li><a href="http://www.cssor.com/comments/feed">Comments RSS</a></li>
+							</ul>
+		</li>
+
+		</ul>
+</div><!-- /sidebar -->
+</div><!-- /main -->
+
+<!--cos-html-cache-safe-tag-->
+<div id="footer">
+
+	<div class="foot1">
+		<ul>
+						<li>
+				<h3>Friends &amp; links</h3>
+				<ul>
+				<li><a href="http://wordpress.org/extend/themes/">Themes</a></li>
+				</ul>
+			</li>
+					</ul>
+	</div>
+
+	<div class="foot2">
+		<ul>
+						<li>
+				<h3>Pages</h3>
+				<ul>
+				<li class="page_item page-item-2"><a href="http://www.cssor.com/关于" title="关于">关于</a></li>
+				</ul>
+			</li>
+					</ul>
+	</div>
+
+	<div class="foot3">
+		<ul>
+						<li>
+				<h3>Monthly archives</h3>
+				<ul>
+					<li><a href='http://www.cssor.com/2010/08' title='2010年八月'>2010年八月</a></li>
+				</ul>
+			</li>
+					</ul>
+	</div>
+
+</div><!-- /footer -->
+
+<div id="credits">
+	<div id="creditsleft">Powered by <a href="http://wordpress.org/extend/themes/" rel="generator">WordPress</a> | Theme: <a href="http://85ideas.com/public-releases/wordpress-theme-motion/">Motion</a> by <a href="http://85ideas.com/" rel="designer">85ideas</a>.</div>
+	<div id="creditsright"><a href="#top">&#91; Back to top &#93;</a></div>
+</div><!-- /credits -->
+
+</div><!-- /wrapper -->
+
+</body>
+</html><!--this is a real static html file created at 2010-08-07 15:20:28 by cos-html-cache 2.7.3 -->
