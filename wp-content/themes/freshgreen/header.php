@@ -27,7 +27,7 @@
 <link rel="profile" href="http://cssor.com/about" />
 <link rel="shortcut icon" type="image/x-icon" href="<?php bloginfo('template_url')?>/img-res/favicon.ico" />
 <link rel="icon" type="image/png" href="<?php bloginfo('template_url')?>/img-res/favicon.png" />
-<link rel="stylesheet" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
+<link rel="stylesheet" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>?v1" />
 <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 <!--[if lte IE 8]>
 <script>(function(){
